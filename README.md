@@ -5,7 +5,7 @@ A repository containing ServiceNow projects demonstrating service catalog design
 ## Projects
 
 ### 1. Automated Network Request Management in ServiceNow
-End-to-end ITSM automation using ServiceNow including request workflows, approvals, and performance testing.
+A ServiceNow-based application that automates network service requests using Service Catalog, approval workflows, and Flow Designer. The system tracks request status, assigns tasks, and stores request details in a custom database to improve efficiency and reduce manual errors.
 
 ### 2. Metro Ticket Generating System in ServiceNow
-Digital metro ticket booking with QR-based flow and automation.
+A digital metro ticketing application built using ServiceNow to automate smart card recharge and QR-based ticket booking. The system calculates fares dynamically and stores transaction details securely in a custom database.
